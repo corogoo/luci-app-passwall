@@ -1,1 +1,1 @@
-# luci-app-passwall
+来自Lienol大神的luci-app-passwall插件
